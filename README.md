@@ -34,7 +34,8 @@ This program has only been tested on MacOS but should compile on any Unix-like o
 ## Known Issues and Areas of Improvement
 
 - The handling of window resizing needs to be improved.
-- Color would make the cards more readable. 
+- Color would make the cards more readable.
+- Saving gamestate such as credit should be added.
 - Should be tested on other operating systems.
 - Should have tests.
 
